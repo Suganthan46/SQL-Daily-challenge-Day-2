@@ -1,0 +1,1 @@
+# SQL-Daily-challenge-Day-2
